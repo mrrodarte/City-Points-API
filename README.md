@@ -6,6 +6,7 @@ Used a local SQL Express database for demo purposes.
 
 # Overview
   The application demostrates examples of all basic endpoint of a REST API. 
+  
     - GET Cities/Points of Interest (for retrieving multiple resources)
     - GET City/Point of Interest (to retrieve a single resource)
     - POST City/Point of Interest (to add/create and persist a single resource)
