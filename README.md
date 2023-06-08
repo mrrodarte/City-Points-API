@@ -1,5 +1,5 @@
 # myNETCoreAPI
-Demo WinForms application in .NET Core 2.1 that handles a simple Employee Maintenance Form for the purpose of showing knowledge of C# language and object oriented design and fundamentals.
+Demo WinForms application in .NET Core 2.1 that demonstrates all the basic principiples of a REST API application coded in C# language using object oriented design and fundamentals.
 
 # Database
 Used a local SQL Express database for demo purposes.
