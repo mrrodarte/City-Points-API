@@ -9,10 +9,10 @@ Used a local SQL Express database for demo purposes.
   
     - GET Cities/Points of Interest (for retrieving multiple resources)
     - GET City/Point of Interest (to retrieve a single resource)
-    - POST City/Point of Interest (to add/create and persist a single resource)
-    - PUT City/Point of Interest (to update and persist a specific resource)
-    - PATCH City/Point of Interest (to update a specific field in the resource)
-    - DELETE City/Point of Interest (to delete/remote a resource)
+    - POST Point of Interest (to add/create and persist a single resource)
+    - PUT Point of Interest (to update and persist a specific resource)
+    - PATCH Point of Interest (to update a specific field in the resource)
+    - DELETE Point of Interest (to delete/remote a resource)
     
 # The App demostrates these Object Oriented design principles:
 
