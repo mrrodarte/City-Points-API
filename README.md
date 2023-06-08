@@ -9,11 +9,11 @@ Used a local SQL Express database for demo purposes.
 
 # The App demostrates these Object Oriented design principles:
 
-Use of Generics.
-Single responsability classes. (classes have one responsability task)
-Open closed principle. Classes can be extended or derived but not modified.
-Use of interfaces.
-Use of dependency injection.
-Use of Object Relational Mapping (ORM) .NET Framework for sqllite
-Error handling.
-Simple logging via NLog platform.
+  - Use of Generics.
+  - Single responsability classes. (classes have one responsability task)
+  - Open closed principle. Classes can be extended or derived but not modified.
+  - Use of interfaces.
+  - Use of dependency injection.
+  - Use of Object Relational Mapping (ORM) .NET Framework for sqllite
+  - Error handling.
+  - Simple logging via NLog platform.
